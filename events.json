@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Annual Innovation Summit 2025",
+    "description": "Join industry leaders, innovators, and visionaries for a day of inspiring presentations, networking, and breakthrough technology demonstrations.",
+    "date": "2025-01-25",
+    "time": "09:00 AM - 06:00 PM",
+    "location": "Tech Convention Center, San Francisco",
+    "type": "Conference",
+    "attendees": "500+",
+    "price": "Free",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Sustainability Workshop Series",
+    "description": "Hands-on workshop exploring sustainable practices in technology and business. Learn practical strategies for environmental responsibility.",
+    "date": "2025-02-08",
+    "time": "02:00 PM - 05:00 PM",
+    "location": "Green Campus, Austin TX",
+    "type": "Workshop",
+    "attendees": "50",
+    "price": "$75"
+  },
+  {
+    "id": 3,
+    "title": "Product Launch Webinar",
+    "description": "Exclusive first look at our latest product lineup. Discover new features, capabilities, and how they can transform your workflow.",
+    "date": "2025-02-20",
+    "time": "11:00 AM - 12:00 PM",
+    "location": "Online Event",
+    "type": "Webinar",
+    "attendees": "1000+",
+    "price": "Free"
+  },
+  {
+    "id": 4,
+    "title": "Community Networking Mixer",
+    "description": "Connect with fellow professionals, entrepreneurs, and thought leaders in a relaxed, informal setting with refreshments and activities.",
+    "date": "2025-03-15",
+    "time": "06:00 PM - 09:00 PM",
+    "location": "Rooftop Lounge, NYC",
+    "type": "Networking",
+    "attendees": "100",
+    "price": "$25"
+  }
+]
